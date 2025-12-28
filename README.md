@@ -20,17 +20,18 @@
 ## ✨ Project Preview
 
 <p align="center">
-  <img src="screenshots/zomato_dashboard_preview.png" width="95%" alt="Zomato Dynamic Excel Dashboard Preview"/>
+  <img src="./Zomato%20DashBoard%20Preview.jpeg" width="95%" alt="Zomato Dynamic Excel Dashboard Preview"/>
 </p>
 
 <p align="center">
   <b>Dynamic Zomato Excel Dashboard</b><br>
-  Interactive KPIs • Sales Trends • City & State Insights • Slicer-based Filtering
+  KPIs • Sales Trends • City & State Insights • Interactive Slicers
 </p>
 
 > 📌 **Note:**  
-> This preview is a **static snapshot** of the dashboard.  
-> Full interactivity (slicers, dynamic KPIs, charts updating in real time) is available in the **Excel (.xlsx) file**.
+> This is a static preview image.  
+> Full interactivity is available in the Excel (.xlsx) file.
+
 
 ---
 
