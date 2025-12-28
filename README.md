@@ -91,15 +91,6 @@ The Excel file follows **industry-standard dashboard architecture**:
 | 🧮 Analysis | Pivot tables & logic |
 | 🗃️ Data | Raw dataset (197,300+ rows) |
 
----
-
-## 🎥 Dashboard Interaction (GIF)
-
-<p align="center">
-  <img src="screenshots/dashboard_interaction.gif" width="85%"/>
-</p>
-
-*(Shows slicer-based dynamic filtering and KPI updates)*
 
 ---
 
